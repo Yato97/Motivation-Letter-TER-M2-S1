@@ -44,7 +44,6 @@ body {
     position: absolute;
     padding: 0px;
     margin: 0px;
-    width: 95%;
     height: 38em;
     border-radius: 2%;
     border: 0.2em solid var(--lightneon);
@@ -53,6 +52,13 @@ body {
     top: 8em;
     box-shadow: inset 0 0 0.5em var(--lightneon), 0 0 1.5em var(--lightneon);
     transition: all 500ms;
+}
+
+.hero-img {
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    height: 20em; 
 }
 
 .profile-img-container {
@@ -67,9 +73,7 @@ body {
     padding: 0px;
     margin: 0px;
     display: inline-block;
-    width: 100%;
     height: 100%;
-    border-radius: 100%;
 }
 
 .line-color {
