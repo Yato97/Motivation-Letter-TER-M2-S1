@@ -202,7 +202,7 @@ function displayLinkTop() {
     container_link.style.opacity = "1";
     linktop.style.opacity = "1";
     lienTitle.style.opacity = "1";
-    linktop.style.width = "50%";
+    linktop.style.width = "66.4%";
     linktop.style.transform = "translateX(-50%)";
     setTimeout(displayLinkBorder, 800);
 }
