@@ -253,18 +253,18 @@ h6 {
 
 #name {
     font-family: 'Combo', cursive;
-    color: var(--background);
-    font-size: 1.5em;
+    color: rgb(220, 234, 234);
+    font-size: 3.5em;
     text-shadow: var(--background) 1px 0 15px;
 }
 
 #desc {
-    color: var(--background);
+    color: rgb(252, 252, 252);
     font-family: 'Roboto Mono', monospace;
     font-weight: 1000;
     margin-left: 1em;
     margin-right: 1em;
-    font-size: 1em;
+    font-size: 3em;
 }
  /* --------------------------- FONT --------------------------- */
   
