@@ -163,7 +163,7 @@ function displayBottomrFooter() {
     footer_border_bot.style.width = footer.getBoundingClientRect().width-2+"px";
     setTimeout(displayBoxProgress(0), 200);
 }
-var progressTab = [88,72,65,95,90, 100]
+var progressTab = [88,72,65,95,90, 100, 80]
 async function displayBoxProgress(i) {
     let index = i;
     if (index < box_progress.length) {
